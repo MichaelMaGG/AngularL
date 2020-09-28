@@ -18,6 +18,7 @@ import { HerosComponent } from './heros/heros.component';
   ],
   imports: [
     BrowserModule,
+    FormsModule,
     AppRoutingModule,
     HttpClientModule,
     ReactiveFormsModule,
