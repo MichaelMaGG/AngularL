@@ -1,0 +1,14 @@
+[
+    {
+      "time": "Morning",
+      "message": "Good"
+    },
+    {
+      "time": "Afternoon",
+      "message": "Hello"
+    },
+    {
+      "time": "Night",
+      "message": "Sweet"
+    }
+]
