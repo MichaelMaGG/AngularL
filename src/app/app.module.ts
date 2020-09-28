@@ -9,12 +9,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HelloComponent } from './hello/hello.component'; 
 import { HerosComponent } from './heros/heros.component';
+import { HeroDetailComponent } from './hero-detail/hero-detail.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HelloComponent,
     HerosComponent,
+    HeroDetailComponent,
   ],
   imports: [
     BrowserModule,
